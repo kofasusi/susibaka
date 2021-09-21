@@ -10,7 +10,7 @@ x('hello')
 
 <<<<<<< HEAD
 //zmiana tak zeby konflikt dzialaj pls ale drugi branch
-//zmiana2354
+//zmiana2354 moze dziala ?????
 //zmiana tak zeby konflikt dzialaj plssasdasadasds
 //zmiana2354saddsa
 =======
