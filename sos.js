@@ -9,3 +9,4 @@ x('hello')
 // git status, git diff, git add, git commit -m "susi"
 
 //zmiana
+//zmiana2354
