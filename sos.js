@@ -8,5 +8,5 @@ x('hello')
 //comment
 // git status, git diff, git add, git commit -m "susi"
 
-//zmiana
+//zmiana tak zeby konflikt dzialaj pls
 //zmiana2354
